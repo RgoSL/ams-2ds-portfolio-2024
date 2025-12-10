@@ -1,36 +1,36 @@
-# 💼 IBM-AMS 2024 - Career Development Hours
+# 💼 IBM-AMS 2024 - Horas de Contextualização Profissional
 
-> _**This repository contains the professional contextualization activities**_ I carried out during the academic year, in collaboration with the company partnered with the technical course.
-> The tasks presented here were designed to _**integrate academic learning with real-world applications**_, as part of the course’s requirement for professional development.
-> These activities were supervised and aligned with the objectives established by the institution and the partner company.
+> _**Este repositório contém as atividades de contextualização profissional**_ que realizei durante o ano letivo, em colaboração com a empresa parceira do curso técnico.
+> As tarefas apresentadas aqui foram elaboradas para _**integrar o aprendizado acadêmico com aplicações do mundo real**_, como parte das exigências do curso para desenvolvimento profissional.
+> Essas atividades foram supervisionadas e alinhadas com os objetivos estabelecidos pela instituição e pela empresa parceira.
 
 <!-- ATIVIDADES REALIZADAS DURANTE ESSE ANO ACADÊMICO ⬇️ -->
 
-## Overview:
+## Visão Geral:
 
-### Flexible Hours
-> This folder contains certificates of all additional courses I completed to fulfill the contextualization hour requirements.
-- ### [Additional Courses](https://github.com/RgoSL/PortfolioAMS2024-2DS/tree/main/Horas%20Flexiveis) <!-- ⬅️ LINK DA ATIVIDADE MENCIONADA -->
+### Horas Flexíveis
+> Esta pasta contém atividades extras que realizei para a complementação da Contextualização, dentra elas cursos de programação Android.
+- ### [Complementos](https://github.com/RgoSL/PortfolioAMS2024-2DS/tree/main/Horas%20Flexiveis) <!-- ⬅️ LINK DA ATIVIDADE MENCIONADA -->
 <br>
 
-### Career Talks
-> This folder stores attendance certificates and my personal notes from the talks hosted by IBM throughout the year.
-- ### [Talks](https://github.com/RgoSL/PortfolioAMS2024-2DS/tree/main/Palestras) <!-- ⬅️ LINK DA ATIVIDADE MENCIONADA -->
+### Palestras IBM
+> Esta pasta guarda certificados de presença e minhas anotações pessoais das palestras realizadas pela IBM ao longo do ano.
+- ### [Palestras](https://github.com/RgoSL/PortfolioAMS2024-2DS/tree/main/Palestras) <!-- ⬅️ LINK DA ATIVIDADE MENCIONADA -->
 <br>
 
 ### Skills Build
-> As part of the professional contextualization activities required by the course, I completed a learning path provided by the company. This folder includes the certificates earned along the path, along with my notes.
+> Como parte das atividades de contextualização profissional exigidas pelo curso, concluí uma trilha de aprendizagem fornecida pela empresa. Esta pasta inclui os certificados obtidos ao longo da trilha.
 - ### [SkillsBuild](https://github.com/RgoSL/PortfolioAMS2024-2DS/tree/main/SkillsBuild) <!-- ⬅️ LINK DA ATIVIDADE MENCIONADA -->
 <br>
 
-### IBM Project - High Ecology
-> This folder contains all the pitches related to my personal project conducted throughout this year.
+### Projeto IBM - High Ecology
+> Esta pasta contém registros de presença e materiais relacionados aos seminários que apresentei sobre um projeto pessoal que fiz para a empresa ao longo do ano.
 <br>
 
-# 📌 High Ecology Project Documentation
+# 📌 Documentação Projeto High Ecology
 
-### 💻 [ High Ecology – Web Application  Version](https://github.com/RgoSL/High_Ecology)
-### 📱 [ High Ecology – Mobile Application Version](https://github.com/RgoSL/HighEcology_MobileVersion)
+### 💻 [ High Ecology – Versão Web](https://github.com/RgoSL/High_Ecology)
+### 📱 [ High Ecology – Versão Mobile](https://github.com/RgoSL/HighEcology_MobileVersion)
 
 <br>
 
